@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kek:home|Door43 (kek)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kek|d43-kek repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kek/archive/master.zip|d43-kek.zip]]
+
+**Recent Changes**
+{{changes>ns = kek}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kek|Ethnologue data]]
+
